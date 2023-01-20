@@ -1,0 +1,31 @@
+5
+Hayao Watanabe
+Dept. of Graphics and Comp. Sci.
+3-11-1 Komaba, Meguro-ku
+Tokyo
+153-9280
+JAPAN
+Alan Byron
+18 Reed St
+
+Cambridge
+02412
+USA
+Eric Bloch
+30 rue du Docteur Roux
+
+Paris
+75701
+FRANCE
+Dominique Monaghan
+600 Sainte-Catherine St. W
+Suite 7
+Montreal
+H3B 2A3
+CANADA
+Philip Calcagno
+Cogoleto (GE)
+Via Schiva 19
+Genova
+16000
+ITALY
